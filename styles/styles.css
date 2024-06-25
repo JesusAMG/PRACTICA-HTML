@@ -1,0 +1,21 @@
+.foto{
+    height: 900%;
+    width: 200px;
+    border-radius: 90px;
+}
+
+.aboutme{
+    border: 2px solid black;
+    border-radius: 10px;
+    font-family: "Audiowide";
+}
+
+div {
+    background-color: #21828f;
+  }
+
+  body {
+    background-color: rgba(121, 156, 196, 0.882);
+  }
+
+  
